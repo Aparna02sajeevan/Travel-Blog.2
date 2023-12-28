@@ -1,0 +1,104 @@
+body{
+    background-color:#E4F9F5;
+    text-align:center;
+    color:#0c0b12b9;
+    margin:auto;
+    
+}
+
+h1{
+    margin:auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size:60px;
+    width:40%;
+   
+    color:#0a2b9089;
+}
+.circular{
+    border-radius: 100%;
+}
+
+p{
+    margin:auto;
+    width:80%;
+    font-family:sans-serif;
+}
+.auto{
+    border-radius: 10%;
+}
+h2{
+    font-family: 'Lobster', sans-serif;
+    font-size:40px;
+    color:#11999E;
+
+}
+.delhi{
+    width:60%;
+    margin:auto;
+}
+h3{
+    font-family: cursive;
+    font-size:20px;
+}
+.last{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2e1b89;
+}
+h4{
+    font-family:cursive;
+    font-size:20px;
+    color:#11999E;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #192f3d);
+    background-image: -moz-linear-gradient(top, #11cdd4, #192f3d);
+    background-image: -ms-linear-gradient(top, #11cdd4, #192f3d);
+    background-image: -o-linear-gradient(top, #11cdd4, #192f3d);
+    background-image: linear-gradient(to bottom, #11cdd4, #192f3d);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #5ca89d;
+    background-image: -webkit-linear-gradient(top, #5ca89d, #32bc4ad);
+    background-image: -moz-linear-gradient(top, #5ca89d, #32bc4ad);
+    background-image: -ms-linear-gradient(top, #5ca89d, #32bc4ad);
+    background-image: -o-linear-gradient(top, #5ca89d, #32bc4ad);
+    background-image: linear-gradient(to bottom, #5ca89d, #32bc4ad);
+    text-decoration: none;
+  }
+  strong{
+   font-size: 1.275rem;
+  }
+  .manual{
+    text-decoration: none;
+    color:black;
+  }
+  .bottom-container{
+        background-color:#66BFBF;
+        padding:60px 0 20px;
+        margin:0;
+  }
+  a{
+    margin:10px 3px;
+    font-family: sans-serif;
+    padding:.2rem;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+  .copyright{
+    color:#EAF6F6;
+    font: size 0.725rem;
+    padding: 20px 0;
+}
